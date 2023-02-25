@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kimjaeyoon0304
+- 👋 Hi, I’m @BBIYAKYEE7
 - 👀 I’m interested in Pyhton!
 - 🌱 I’m currently learning Python and Web develping!
 - 📫 How to reach me dadalgojr@gmail.com!
