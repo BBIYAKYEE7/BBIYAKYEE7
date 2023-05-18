@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BBIYAKYEE7
+- 👋 Hi, I’m @BBIYAKYEE7 김재윤(Kim Jeayoon)
 - 👀 I’m interested in Pyhton, HTML, CSS and Javascript!
 - 🌱 I’m currently learning Python and Web develping!
 - 📫 How to reach me bbiyakyee7@gmail.com!
