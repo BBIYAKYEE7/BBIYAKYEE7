@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BBIYAKYEE7 김재윤(Kim Jeayoon)
 - 👀 I’m interested in Pyhton, HTML, CSS and Javascript!
 - 🌱 I’m currently learning Python and Web develping!
+- 🐣 I'am Junior Developer.
 - 📫 How to reach me bbiyakyee7@gmail.com!
-- 🧑🏻‍💻 I am a student for ILSAN DAEJIN HIGHSCHOOL in Republic Of Korea!
-- 🇰🇷 Of course my nationality is Republic Of Korea!
