@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @BBIYAKYEE7 김재윤(Kim Jeayoon)
-- 👀 I’m interested in Pyhton, HTML, CSS and Javascript!
-- 🌱 I’m currently learning Python and Web develping!
-- 🐣 I'am Junior Developer.
-- 📫 How to reach me bbiyakyee7@gmail.com!
+- 👋 Welcome to my Github! My name is Jaeyoon Kim.
+- 🐣 I am Junior Developer. Nice to meet you!
+- ✌🏼 I'm currently a student in Korea, studing in Ilsan Daejin Highschool.
+- 📩 Intersted? Mail me freely on bbiyakyee7@gmail.com!
