@@ -1,4 +1,4 @@
 - 👋 Welcome to my Github! My name is Jaeyoon Kim.
 - 🐣 I am Junior Developer. Nice to meet you!
-- ✌🏼 I'm currently a student in Korea, studing in Ilsan Daejin Highschool.
+- ✌🏼 I admited to Korea University Sejong Campus
 - 📩 Intersted? Mail me freely on bbiyakyee7@gmail.com!
