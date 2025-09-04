@@ -29,3 +29,6 @@
 + 2024
   + Regeneron International Science and Engineering Fair (Grand Awards from Embeded System)
   + Korea Talent Awards (Award of Minister of Education)
+
+
+[![BBIYAKYEE7's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBIYAKYEE7)](https://github.com/BBIYAKYEE7/github-readme-stats)
